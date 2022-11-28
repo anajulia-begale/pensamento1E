@@ -6,7 +6,7 @@ Esse arquivo é de uma barbearia, você deve colocar suas imagens e o seu texto 
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>Produtos - Barbearia Alura</title>
+		<title>Produtos - Veterinaria Alura</title>
 
 		<link rel="stylesheet" href="reset.css">
 		<link rel="stylesheet" href="produtos.css">
@@ -14,7 +14,7 @@ Esse arquivo é de uma barbearia, você deve colocar suas imagens e o seu texto 
 	<body>
 		<header>
 			<div class="caixa">
-				<h1><img src="logo.png"></h1>
+				<h1><img src="dog_1.jpg"></h1>
 
 				<nav>
 					<ul>
@@ -30,20 +30,20 @@ Esse arquivo é de uma barbearia, você deve colocar suas imagens e o seu texto 
 			<ul class="produtos">
 				<li>
 					<h2>Cabelo</h2>
-					<img src="cabelo.jpg">
+					<img src="banho e tosa.jpg">
 					<p class="produto-descricao">Na tesoura ou máquina, como o cliente preferir</p>
 					<p class="produto-preco">R$ 25,00</p>
 				</li>
 				<li>
 					<h2>Barba</h2>
-					<img src="barba.jpg">
-					<p class="produto-descricao">Corte e desenho profissional de barba</p>
+					<img src="veterinaria.jpg">
+					<p class="produto-descricao">banho e tosa profissional de filhotes</p>
 					<p class="produto-preco">R$ 18,00</p>
 				</li>
 				<li>
-					<h2>Cabelo + Barba</h2>
-					<img src="cabelo+barba.jpg">
-					<p class="produto-descricao">Pacote completo de cabelo e barba</p>
+					<h2>banho + tosa</h2>
+					<img src="banho+tosa.jpg">
+					<p class="produto-descricao">Pacote completo de banho e tosa</p>
 					<p class="produto-preco">R$ 35,00</p>
 				</li>
 			</ul>
